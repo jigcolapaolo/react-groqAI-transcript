@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Groq from 'groq-sdk';
 
-const API_KEY = "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";
+const API_KEY = "";
 
 // Validar que se pueda usar en el navegador
 let recognition: any = null;
